@@ -4,7 +4,7 @@ PDF splitter easily allows you to split pds into smaller pdfs.
 
 ## Install
 
-You'll need a minimal Python 3.6 installation and need to install `PyPDF2`
+You'll need a minimal Python 3.6 installation and need to install `PyPDF2`:
 
 ```bash
 pip install PyPDF2
