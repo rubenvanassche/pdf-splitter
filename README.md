@@ -18,9 +18,9 @@ You can split an input file on the tenth page as such:
 python splitter.py inputfile.pdf 10
 ```
 
-This will create 2 pdf's: one from the first page until the tenth and one from the eleventh page until the last page of the pdf
+This will create 2 pdf's: one from the first page until the tenth and one from the eleventh page until the last page of the pdf.
 
-It is possible to add multiple splitting points
+It is possible to add multiple splitting points:
 
 ```bash
 python splitter.py inputfile.pdf 10 20 25
